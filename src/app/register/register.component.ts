@@ -44,8 +44,7 @@ export class RegisterComponent {
     constructor(private registerservice:RegisterService){
 
       this.countrydata()
-      // this.statedata(1)
-      // this.citydata(1)
+    
 
     }
 

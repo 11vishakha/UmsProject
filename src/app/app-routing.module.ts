@@ -11,6 +11,7 @@ const routes: Routes = [{path:"  ",component:HomeComponent},
 {path:'login',component:LoginComponent},
 {path:'register',component:RegisterComponent},
 {path:'unlock-account',component:UnlockAccountComponent},
+{path:'unlockAcc',component:UnlockAccountComponent},
 {path:'forgot-password',component:ForgotPasswordComponent},
 {path:'**',component:PageNotFoundComponent}];
 
